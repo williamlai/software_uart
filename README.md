@@ -10,8 +10,8 @@ The reference board is [Realtek RTL8195A](https://www.amebaiot.com/en/ameba1/).
 
 The design document is here:
 
-Chinese edition
+Chinese edition  
 https://medium.com/@redmilk/%E4%BD%BF%E7%94%A8-gpio-%E5%AF%A6%E4%BD%9C-software-uart-737e217a1d99
 
-English edition
+English edition  
 https://medium.com/@redmilk/implement-software-uart-from-2-gpio-1150e96c3d18
